@@ -59,10 +59,14 @@ Below is the list of all the articles that Google provided in their UX Design Co
     3. [An Accessible Process for inclusive Design from Google I/O](https://www.youtube.com/watch?v=TAzkrXTGEOM&feature=emb_title)
     4. [6 Principles for Inclusive Design from UX Planet](https://uxplanet.org/6-principles-for-inclusive-design-3e9867f7f63e)
 
+## Prototypes
+1. [Prototype interactions and animations](https://help.figma.com/hc/en-us/articles/360040315773)
+2. [Nine prototype triggers](https://help.figma.com/hc/en-us/articles/360040035834)
+3. [Prototype actions](https://help.figma.com/hc/en-us/articles/360040035874)
+
 ## Misc
 1. [10 Linkedin Message Templates](https://www.themuse.com/advice/want-people-to-accept-your-linkedin-requests-use-these-10-templates)
 
 
 ## Templated and useful tools
 1. [Case study slide deck.](https://docs.google.com/presentation/d/1zyqoc1125wnStwfpGwhmJw0PAjtr9-Dt7i0o7a7DYGw/template/preview)
-2. 
